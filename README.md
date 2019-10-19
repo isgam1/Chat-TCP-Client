@@ -1,6 +1,6 @@
 # Chat-TCP-Client
 
-El Cliente Se comunica con el listener
+El <strong>Cliente</strong> introduce los datos y se conecta con el listener.
 
 
 
